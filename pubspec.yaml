@@ -1,0 +1,55 @@
+name: nobrainer
+description: Ultra minimalist rapid-fire trivia game
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  
+  # State Management
+  provider: ^6.1.1
+  
+  # Local Storage
+  shared_preferences: ^2.2.2
+  
+  # Animations
+  flutter_animate: ^4.5.0
+  
+  # Haptic Feedback
+  vibration: ^1.8.4
+  
+  # Share
+  share_plus: ^7.2.1
+  
+  # Google Mobile Ads
+  google_mobile_ads: ^4.0.0
+  
+  # In-App Purchase
+  in_app_purchase: ^3.1.11
+  
+  # Icons
+  flutter_launcher_icons: ^0.13.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Assets
+  assets:
+    - assets/questions/
+    - assets/sounds/
+    - assets/images/
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  image_path: "assets/icon/icon.png"
+  min_sdk_android: 21
