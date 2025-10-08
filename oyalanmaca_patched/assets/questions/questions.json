@@ -1,0 +1,2264 @@
+[
+  {
+    "question": "Türkiye'nin başkenti neresidir?",
+    "options": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "category": "Genel Kültür",
+    "difficulty": "easy",
+    "id": "1",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "2 + 2 = ?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "category": "Matematik",
+    "difficulty": "easy",
+    "id": "2",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Güneş sisteminde kaç gezegen var?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "category": "Bilim",
+    "difficulty": "easy",
+    "id": "3",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Hangisi bir programlama dili değildir?",
+    "options": [
+      "Python",
+      "Java",
+      "HTML",
+      "Photoshop"
+    ],
+    "category": "Teknoloji",
+    "difficulty": "medium",
+    "id": "4",
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Mona Lisa tablosunu kim çizdi?",
+    "options": [
+      "Picasso",
+      "Da Vinci",
+      "Van Gogh",
+      "Monet"
+    ],
+    "category": "Sanat",
+    "difficulty": "easy",
+    "id": "5",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "En büyük okyanus hangisidir?",
+    "options": [
+      "Atlantik",
+      "Hint",
+      "Pasifik",
+      "Arktik"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "easy",
+    "id": "6",
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Hangi yıl Türkiye Cumhuriyeti kuruldu?",
+    "options": [
+      "1920",
+      "1921",
+      "1922",
+      "1923"
+    ],
+    "category": "Tarih",
+    "difficulty": "easy",
+    "id": "7",
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Instagram hangi şirket tarafından satın alındı?",
+    "options": [
+      "Google",
+      "Meta",
+      "Apple",
+      "Amazon"
+    ],
+    "category": "Teknoloji",
+    "difficulty": "medium",
+    "id": "8",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Hangi element su molekülünde yoktur?",
+    "options": [
+      "Hidrojen",
+      "Oksijen",
+      "Karbon",
+      "Hepsi var"
+    ],
+    "category": "Bilim",
+    "difficulty": "medium",
+    "id": "9",
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "En çok Oscar ödülü alan filmler kaç ödül aldı?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "category": "Sinema",
+    "difficulty": "hard",
+    "id": "10",
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Hangisi bir Avrupa ülkesi değildir?",
+    "options": [
+      "Norveç",
+      "İzlanda",
+      "Grönland",
+      "Finlandiya"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "medium",
+    "id": "11",
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Bitcoin ilk kez hangi yıl ortaya çıktı?",
+    "options": [
+      "2007",
+      "2008",
+      "2009",
+      "2010"
+    ],
+    "category": "Teknoloji",
+    "difficulty": "medium",
+    "id": "12",
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Hangisi bir Marvel karakteri değildir?",
+    "options": [
+      "Iron Man",
+      "Batman",
+      "Spider-Man",
+      "Thor"
+    ],
+    "category": "Pop Kültür",
+    "difficulty": "easy",
+    "id": "13",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "En hızlı kara hayvanı hangisidir?",
+    "options": [
+      "Aslan",
+      "Çita",
+      "Kaplan",
+      "Leopar"
+    ],
+    "category": "Doğa",
+    "difficulty": "easy",
+    "id": "14",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Hangisi bir Apple ürünü değildir?",
+    "options": [
+      "iPhone",
+      "iPad",
+      "Galaxy",
+      "MacBook"
+    ],
+    "category": "Teknoloji",
+    "difficulty": "easy",
+    "id": "15",
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Hangisi bir sosyal medya platformu değildir?",
+    "options": [
+      "TikTok",
+      "Discord",
+      "Spotify",
+      "Snapchat"
+    ],
+    "category": "Teknoloji",
+    "difficulty": "easy",
+    "id": "16",
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Dünyanın en kalabalık şehri hangisidir?",
+    "options": [
+      "Tokyo",
+      "Delhi",
+      "Şangay",
+      "Mumbai"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "medium",
+    "id": "17",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Breaking Bad hangi platformda yayınlandı?",
+    "options": [
+      "Netflix",
+      "AMC",
+      "HBO",
+      "Prime Video"
+    ],
+    "category": "Dizi",
+    "difficulty": "medium",
+    "id": "18",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Işık hızı yaklaşık kaç km/s?",
+    "options": [
+      "200.000",
+      "300.000",
+      "400.000",
+      "500.000"
+    ],
+    "category": "Bilim",
+    "difficulty": "hard",
+    "id": "19",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Hangisi bir emoji değildir?",
+    "options": [
+      "😀",
+      "😂",
+      "😎",
+      "#"
+    ],
+    "category": "Teknoloji",
+    "difficulty": "easy",
+    "id": "20",
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "YouTube hangi yıl kuruldu?",
+    "options": [
+      "2003",
+      "2004",
+      "2005",
+      "2006"
+    ],
+    "category": "Teknoloji",
+    "difficulty": "medium",
+    "id": "21",
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Hangisi bir yazılım dili değildir?",
+    "options": [
+      "C++",
+      "Python",
+      "HTTP",
+      "JavaScript"
+    ],
+    "category": "Teknoloji",
+    "difficulty": "medium",
+    "id": "22",
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "En büyük gezegen hangisidir?",
+    "options": [
+      "Jüpiter",
+      "Satürn",
+      "Uranüs",
+      "Neptün"
+    ],
+    "category": "Bilim",
+    "difficulty": "easy",
+    "id": "23",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Tesla'nın CEO'su kimdir?",
+    "options": [
+      "Jeff Bezos",
+      "Elon Musk",
+      "Bill Gates",
+      "Mark Zuckerberg"
+    ],
+    "category": "İş Dünyası",
+    "difficulty": "easy",
+    "id": "24",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "WhatsApp hangi şirket tarafından satın alındı?",
+    "options": [
+      "Google",
+      "Meta",
+      "Apple",
+      "Microsoft"
+    ],
+    "category": "Teknoloji",
+    "difficulty": "medium",
+    "id": "25",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Türkiye'nin en yüksek dağı hangisidir?",
+    "options": [
+      "Erciyes",
+      "Ağrı",
+      "Kaçkar",
+      "Toros"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "medium",
+    "id": "26",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Atatürk hangi yıl doğmuştur?",
+    "options": [
+      "1880",
+      "1881",
+      "1882",
+      "1883"
+    ],
+    "category": "Tarih",
+    "difficulty": "medium",
+    "id": "27",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "DNA'nın açılımı nedir?",
+    "options": [
+      "Deoksiribonükleik Asit",
+      "Dinükleik Asit",
+      "Deoksiribo Nükleer Asit",
+      "Dinar Nükleik Asit"
+    ],
+    "category": "Bilim",
+    "difficulty": "hard",
+    "id": "28",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "1 kilometre kaç metredir?",
+    "options": [
+      "10",
+      "100",
+      "1000",
+      "10.000"
+    ],
+    "category": "Matematik",
+    "difficulty": "easy",
+    "id": "29",
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "İstanbul'u fetheden Osmanlı padişahı kimdir?",
+    "options": [
+      "Fatih Sultan Mehmet",
+      "Yavuz Sultan Selim",
+      "Kanuni Sultan Süleyman",
+      "Orhan Gazi"
+    ],
+    "category": "Tarih",
+    "difficulty": "medium",
+    "id": "30",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Türk bayrağındaki ay ve yıldız hangi renk üzerindedir?",
+    "options": [
+      "Kırmızı",
+      "Mavi",
+      "Beyaz",
+      "Yeşil"
+    ],
+    "category": "Genel Kültür",
+    "difficulty": "easy",
+    "id": "31",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Dünyanın en uzun nehri hangisidir?",
+    "options": [
+      "Nil",
+      "Amazon",
+      "Yangtze",
+      "Mississippi"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "medium",
+    "id": "32",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "En küçük asal sayı nedir?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "category": "Matematik",
+    "difficulty": "easy",
+    "id": "33",
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Hangi gezegen Kızıl Gezegen olarak bilinir?",
+    "options": [
+      "Venüs",
+      "Mars",
+      "Jüpiter",
+      "Merkür"
+    ],
+    "category": "Bilim",
+    "difficulty": "easy",
+    "id": "34",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Türkiye'nin en kalabalık şehri hangisidir?",
+    "options": [
+      "Ankara",
+      "İstanbul",
+      "İzmir",
+      "Bursa"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "easy",
+    "id": "35",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "1 litrede kaç mililitre vardır?",
+    "options": [
+      "10",
+      "100",
+      "500",
+      "1000"
+    ],
+    "category": "Matematik",
+    "difficulty": "easy",
+    "id": "36",
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Hangi hayvan memeli değildir?",
+    "options": [
+      "Yunus",
+      "Balina",
+      "Penguen",
+      "Yarasa"
+    ],
+    "category": "Doğa",
+    "difficulty": "medium",
+    "id": "37",
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Türkiye'nin en uzun kıyı şeridine sahip gölü hangisidir?",
+    "options": [
+      "Van Gölü",
+      "Tuz Gölü",
+      "Beyşehir Gölü",
+      "Sapanca Gölü"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "medium",
+    "id": "38",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Atatürk'ün soyadı kanunundan sonra aldığı soyadı nedir?",
+    "options": [
+      "Gazi",
+      "Atatürk",
+      "Kemal",
+      "Paşa"
+    ],
+    "category": "Tarih",
+    "difficulty": "medium",
+    "id": "39",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Pi sayısı yaklaşık olarak kaçtır?",
+    "options": [
+      "3.14",
+      "2.17",
+      "4.13",
+      "5.12"
+    ],
+    "category": "Matematik",
+    "difficulty": "easy",
+    "id": "40",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Türkiye'nin para birimi hangisidir?",
+    "options": [
+      "Euro",
+      "Dolar",
+      "Türk Lirası",
+      "Ruble"
+    ],
+    "category": "Genel Kültür",
+    "difficulty": "easy",
+    "id": "41",
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Ağaçlar fotosentez için hangi gazı kullanır?",
+    "options": [
+      "Oksijen",
+      "Karbon Dioksit",
+      "Azot",
+      "Hidrojen"
+    ],
+    "category": "Bilim",
+    "difficulty": "easy",
+    "id": "42",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Einstein'ın ünlü denklemi nedir?",
+    "options": [
+      "E=mc²",
+      "F=ma",
+      "a²+b²=c²",
+      "PV=nRT"
+    ],
+    "category": "Bilim",
+    "difficulty": "medium",
+    "id": "43",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "İngiliz alfabesinde kaç harf vardır?",
+    "options": [
+      "24",
+      "25",
+      "26",
+      "27"
+    ],
+    "category": "Genel Kültür",
+    "difficulty": "easy",
+    "id": "44",
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Hangi elementin kimyasal simgesi 'O' harfidir?",
+    "options": [
+      "Altın",
+      "Oksijen",
+      "Gümüş",
+      "Hidrojen"
+    ],
+    "category": "Bilim",
+    "difficulty": "easy",
+    "id": "45",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "İnsan vücudunda kaç kemik vardır?",
+    "options": [
+      "206",
+      "210",
+      "212",
+      "300"
+    ],
+    "category": "Bilim",
+    "difficulty": "medium",
+    "id": "46",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Osmanlı Devleti kaç yılında yıkıldı?",
+    "options": [
+      "1920",
+      "1922",
+      "1923",
+      "1924"
+    ],
+    "category": "Tarih",
+    "difficulty": "medium",
+    "id": "47",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Türkiye'nin üçüncü büyük şehri hangisidir?",
+    "options": [
+      "İzmir",
+      "Bursa",
+      "Adana",
+      "Konya"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "easy",
+    "id": "48",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Dünya'nın uydusunun adı nedir?",
+    "options": [
+      "Ay",
+      "Mars",
+      "Venüs",
+      "Güneş"
+    ],
+    "category": "Bilim",
+    "difficulty": "easy",
+    "id": "49",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Aşağıdakilerden hangisi bir web tarayıcısıdır?",
+    "options": [
+      "Photoshop",
+      "Chrome",
+      "Excel",
+      "Word"
+    ],
+    "category": "Teknoloji",
+    "difficulty": "easy",
+    "id": "50",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Türk lirasının alt birimi nedir?",
+    "options": [
+      "Sent",
+      "Kuruş",
+      "Penny",
+      "Cent"
+    ],
+    "category": "Genel Kültür",
+    "difficulty": "medium",
+    "id": "51",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Türkiye'nin nüfusu en az olan ili hangisidir?",
+    "options": [
+      "Bayburt",
+      "Hakkari",
+      "Tunceli",
+      "Ardahan"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "hard",
+    "id": "52",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Hangi şehir iki kıta üzerinde yer alır?",
+    "options": [
+      "İzmir",
+      "Çanakkale",
+      "İstanbul",
+      "Antalya"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "easy",
+    "id": "53",
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Türkiye'nin en uzun sınır komşusu hangi ülkedir?",
+    "options": [
+      "Yunanistan",
+      "Suriye",
+      "Irak",
+      "Bulgaristan"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "hard",
+    "id": "54",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Hangisi bir asal sayı değildir?",
+    "options": [
+      "13",
+      "17",
+      "19",
+      "21"
+    ],
+    "category": "Matematik",
+    "difficulty": "easy",
+    "id": "55",
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Bir haftada kaç gün vardır?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "category": "Genel Kültür",
+    "difficulty": "easy",
+    "id": "56",
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Dünya'nın en büyük kıtası hangisidir?",
+    "options": [
+      "Afrika",
+      "Asya",
+      "Avrupa",
+      "Amerika"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "easy",
+    "id": "57",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Türkiye'nin en büyük gölü hangisidir?",
+    "options": [
+      "Van Gölü",
+      "Tuz Gölü",
+      "Beyşehir Gölü",
+      "Uzungöl"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "easy",
+    "id": "58",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Hangi hayvan memelidir?",
+    "options": [
+      "Köpekbalığı",
+      "Penguen",
+      "Balina",
+      "Kaplumbağa"
+    ],
+    "category": "Doğa",
+    "difficulty": "easy",
+    "id": "59",
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Hangisi bir programlama dilidir?",
+    "options": [
+      "Python",
+      "HTML",
+      "CSS",
+      "HTTP"
+    ],
+    "category": "Teknoloji",
+    "difficulty": "medium",
+    "id": "60",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Türkiye'nin en uzun akarsuyu hangisidir?",
+    "options": [
+      "Kızılırmak",
+      "Fırat",
+      "Sakarya",
+      "Yeşilırmak"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "medium",
+    "id": "61",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Türk milli marşının adı nedir?",
+    "options": [
+      "İstiklal Marşı",
+      "Gençlik Marşı",
+      "Onuncu Yıl Marşı",
+      "Osmanlı Marşı"
+    ],
+    "category": "Tarih",
+    "difficulty": "easy",
+    "id": "62",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Hangi yıl Osmanlı İmparatorluğu İstanbul'u fethetti?",
+    "options": [
+      "1453",
+      "1492",
+      "1071",
+      "1923"
+    ],
+    "category": "Tarih",
+    "difficulty": "easy",
+    "id": "63",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Ay'ın Dünya etrafındaki dönüş süresi yaklaşık kaç gündür?",
+    "options": [
+      "24",
+      "28",
+      "30",
+      "365"
+    ],
+    "category": "Bilim",
+    "difficulty": "medium",
+    "id": "64",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Türkiye'nin en uzun tüneli hangisidir?",
+    "options": [
+      "Ovit",
+      "Zigana",
+      "Bolu",
+      "Marmaray"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "hard",
+    "id": "65",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Mona Lisa tablosu hangi müzede sergilenmektedir?",
+    "options": [
+      "Louvre",
+      "British Museum",
+      "Prado",
+      "Metropolitan"
+    ],
+    "category": "Sanat",
+    "difficulty": "medium",
+    "id": "66",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Rüzgar enerjisi hangi tür enerjiye örnektir?",
+    "options": [
+      "Yenilenebilir",
+      "Fosil",
+      "Nükleer",
+      "Kimyasal"
+    ],
+    "category": "Bilim",
+    "difficulty": "easy",
+    "id": "67",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Türkiye'nin en büyük adası hangisidir?",
+    "options": [
+      "Gökçeada",
+      "Bozcaada",
+      "Marmara",
+      "Büyükada"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "medium",
+    "id": "68",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Hangisi bir gezegen değildir?",
+    "options": [
+      "Plüton",
+      "Mars",
+      "Venüs",
+      "Jüpiter"
+    ],
+    "category": "Bilim",
+    "difficulty": "medium",
+    "id": "69",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Türkiye'nin en meşhur antik şehirlerinden biri olan Efes hangi ilimizdedir?",
+    "options": [
+      "İzmir",
+      "Antalya",
+      "Mersin",
+      "Muğla"
+    ],
+    "category": "Tarih",
+    "difficulty": "medium",
+    "id": "70",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Bir saat kaç dakikadır?",
+    "options": [
+      "30",
+      "45",
+      "60",
+      "90"
+    ],
+    "category": "Matematik",
+    "difficulty": "easy",
+    "id": "71",
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Nobel Edebiyat Ödülü alan ilk Türk yazar kimdir?",
+    "options": [
+      "Orhan Pamuk",
+      "Yaşar Kemal",
+      "Nazım Hikmet",
+      "Ahmet Hamdi Tanpınar"
+    ],
+    "category": "Edebiyat",
+    "difficulty": "medium",
+    "id": "72",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "İnternetin mucidi kimdir?",
+    "options": [
+      "Bill Gates",
+      "Tim Berners-Lee",
+      "Steve Jobs",
+      "Mark Zuckerberg"
+    ],
+    "category": "Teknoloji",
+    "difficulty": "medium",
+    "id": "73",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Ankara hangi bölgemizde yer alır?",
+    "options": [
+      "Karadeniz",
+      "Marmara",
+      "Akdeniz",
+      "İç Anadolu"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "easy",
+    "id": "74",
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Hangisi bir Anadolu Selçuklu hükümdarıdır?",
+    "options": [
+      "Alparslan",
+      "II. Bayezid",
+      "Kılıç Arslan",
+      "Yavuz Sultan Selim"
+    ],
+    "category": "Tarih",
+    "difficulty": "hard",
+    "id": "75",
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Bir düzine kaç adettir?",
+    "options": [
+      "10",
+      "12",
+      "20",
+      "24"
+    ],
+    "category": "Genel Kültür",
+    "difficulty": "easy",
+    "id": "76",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Aşağıdakilerden hangisi bir element değildir?",
+    "options": [
+      "Demir",
+      "Su",
+      "Altın",
+      "Oksijen"
+    ],
+    "category": "Bilim",
+    "difficulty": "easy",
+    "id": "77",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Türkiye'nin en yüksek şelalesi hangisidir?",
+    "options": [
+      "Manavgat",
+      "Düden",
+      "Tortum",
+      "Kurşunlu"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "hard",
+    "id": "78",
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Hangisi asal sayı değildir?",
+    "options": [
+      "2",
+      "3",
+      "9",
+      "17"
+    ],
+    "category": "Matematik",
+    "difficulty": "easy",
+    "id": "79",
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "2016 yaz olimpiyatları hangi şehirde düzenlendi?",
+    "options": [
+      "Tokyo",
+      "Rio de Janeiro",
+      "Londra",
+      "Pekin"
+    ],
+    "category": "Spor",
+    "difficulty": "medium",
+    "id": "80",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Yüzüklerin Efendisi filminin yönetmeni kimdir?",
+    "options": [
+      "Peter Jackson",
+      "Steven Spielberg",
+      "James Cameron",
+      "Ridley Scott"
+    ],
+    "category": "Sinema",
+    "difficulty": "medium",
+    "id": "81",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Türkiye'nin en yüksek barajı hangisidir?",
+    "options": [
+      "Atatürk",
+      "Keban",
+      "Deriner",
+      "Yusufeli"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "hard",
+    "id": "82",
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Star Wars filminde 'Ben sizin babanızım' repliğini hangi karakter söylemiştir?",
+    "options": [
+      "Luke",
+      "Darth Vader",
+      "Han Solo",
+      "Yoda"
+    ],
+    "category": "Sinema",
+    "difficulty": "easy",
+    "id": "83",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Galatasaray, Fenerbahçe ve Beşiktaş'ın ortak lakabı nedir?",
+    "options": [
+      "Üç Büyükler",
+      "Anadolu Kartalları",
+      "Kara Kartal",
+      "Aslanlar"
+    ],
+    "category": "Spor",
+    "difficulty": "medium",
+    "id": "84",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Türkiye'nin resmi dili nedir?",
+    "options": [
+      "Türkçe",
+      "İngilizce",
+      "Arapça",
+      "Kürtçe"
+    ],
+    "category": "Genel Kültür",
+    "difficulty": "easy",
+    "id": "85",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "En büyük memeli hangisidir?",
+    "options": [
+      "Fil",
+      "Mavi Balina",
+      "Gergedan",
+      "Zürafa"
+    ],
+    "category": "Doğa",
+    "difficulty": "medium",
+    "id": "86",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Bir futbol takımı sahada kaç oyuncu ile oynar?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "category": "Spor",
+    "difficulty": "easy",
+    "id": "87",
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Türkiye'nin en eski üniversitesi hangisidir?",
+    "options": [
+      "İstanbul Üniversitesi",
+      "Ankara Üniversitesi",
+      "Ege Üniversitesi",
+      "Hacettepe Üniversitesi"
+    ],
+    "category": "Tarih",
+    "difficulty": "medium",
+    "id": "88",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Hangi spor dalında file kullanılır?",
+    "options": [
+      "Futbol",
+      "Voleybol",
+      "Basketbol",
+      "Atletizm"
+    ],
+    "category": "Spor",
+    "difficulty": "easy",
+    "id": "89",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Bir düzlemde iki noktayı birleştiren en kısa çizgiye ne ad verilir?",
+    "options": [
+      "Doğru",
+      "Çember",
+      "Üçgen",
+      "Küre"
+    ],
+    "category": "Matematik",
+    "difficulty": "medium",
+    "id": "90",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Dünyanın en yüksek dağı hangisidir?",
+    "options": [
+      "Everest",
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "easy",
+    "id": "91",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Hangi mevsimde en fazla yağış düşer?",
+    "options": [
+      "Yaz",
+      "Sonbahar",
+      "Kış",
+      "İlkbahar"
+    ],
+    "category": "Genel Kültür",
+    "difficulty": "easy",
+    "id": "92",
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Cumhuriyet Bayramı hangi gündedir?",
+    "options": [
+      "23 Nisan",
+      "19 Mayıs",
+      "30 Ağustos",
+      "29 Ekim"
+    ],
+    "category": "Tarih",
+    "difficulty": "easy",
+    "id": "93",
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Bir yıl kaç haftadan oluşur?",
+    "options": [
+      "48",
+      "50",
+      "52",
+      "54"
+    ],
+    "category": "Genel Kültür",
+    "difficulty": "medium",
+    "id": "94",
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Güneş sisteminde en küçük gezegen hangisidir?",
+    "options": [
+      "Merkür",
+      "Venüs",
+      "Mars",
+      "Plüton"
+    ],
+    "category": "Bilim",
+    "difficulty": "easy",
+    "id": "95",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Türkiye'nin en batıdaki ili hangisidir?",
+    "options": [
+      "Edirne",
+      "İzmir",
+      "Muğla",
+      "Çanakkale"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "medium",
+    "id": "96",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Hangi yıl uzaya ilk insan gönderildi?",
+    "options": [
+      "1957",
+      "1961",
+      "1969",
+      "1972"
+    ],
+    "category": "Bilim",
+    "difficulty": "medium",
+    "id": "97",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "1 gigabyte kaç megabyte'tır?",
+    "options": [
+      "512",
+      "1000",
+      "1024",
+      "2048"
+    ],
+    "category": "Teknoloji",
+    "difficulty": "medium",
+    "id": "98",
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Python programlama dilinin sembolü hangi hayvandır?",
+    "options": [
+      "Yılan",
+      "Panda",
+      "Tilki",
+      "Kedi"
+    ],
+    "category": "Teknoloji",
+    "difficulty": "easy",
+    "id": "99",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Türkiye'nin en uzun köprüsü hangisidir?",
+    "options": [
+      "15 Temmuz Şehitler",
+      "Fatih Sultan Mehmet",
+      "Yavuz Sultan Selim",
+      "1915 Çanakkale Köprüsü"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "hard",
+    "id": "100",
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Hangi renk gökkuşağında yer almaz?",
+    "options": [
+      "Mavi",
+      "Yeşil",
+      "Mor",
+      "Pembe"
+    ],
+    "category": "Genel Kültür",
+    "difficulty": "easy",
+    "id": "101",
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Bir e-postanın sonunda kullanılan 'PS' kısaltması neyi ifade eder?",
+    "options": [
+      "Post Scriptum",
+      "Public Service",
+      "Private Section",
+      "Post Send"
+    ],
+    "category": "Genel Kültür",
+    "difficulty": "medium",
+    "id": "102",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Hangi gezegenin halkaları vardır?",
+    "options": [
+      "Mars",
+      "Satürn",
+      "Venüs",
+      "Merkür"
+    ],
+    "category": "Bilim",
+    "difficulty": "easy",
+    "id": "103",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Su kaç derecede kaynar?",
+    "options": [
+      "50°C",
+      "75°C",
+      "90°C",
+      "100°C"
+    ],
+    "category": "Bilim",
+    "difficulty": "easy",
+    "id": "104",
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "İlk Türk kadın pilot kimdir?",
+    "options": [
+      "Sabiha Gökçen",
+      "Halide Edip",
+      "Türkan Saylan",
+      "Afife Jale"
+    ],
+    "category": "Tarih",
+    "difficulty": "medium",
+    "id": "105",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "TC kısaltması neyi ifade eder?",
+    "options": [
+      "Türkiye Cumhuriyeti",
+      "Tek Cephe",
+      "Ticaret",
+      "Tarih Cilt"
+    ],
+    "category": "Genel Kültür",
+    "difficulty": "easy",
+    "id": "106",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Hangi hayvanın üç kalbi vardır?",
+    "options": [
+      "Ahtapot",
+      "Köpek balığı",
+      "Fil",
+      "Yunus"
+    ],
+    "category": "Bilim",
+    "difficulty": "hard",
+    "id": "107",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Hangisi karbonhidrat kaynağıdır?",
+    "options": [
+      "Ekmek",
+      "Tereyağı",
+      "Et",
+      "Yumurta"
+    ],
+    "category": "Bilim",
+    "difficulty": "easy",
+    "id": "108",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Osmanlı Devleti'nin ilk başkenti hangisidir?",
+    "options": [
+      "Edirne",
+      "Bursa",
+      "İstanbul",
+      "Manisa"
+    ],
+    "category": "Tarih",
+    "difficulty": "hard",
+    "id": "109",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Hangi gezegenin bir günü bir yılından uzundur?",
+    "options": [
+      "Venüs",
+      "Mars",
+      "Merkür",
+      "Jüpiter"
+    ],
+    "category": "Bilim",
+    "difficulty": "hard",
+    "id": "110",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Rüzgar hızını ölçen aletin adı nedir?",
+    "options": [
+      "Termometre",
+      "Barometre",
+      "Anemometre",
+      "Higrometre"
+    ],
+    "category": "Bilim",
+    "difficulty": "medium",
+    "id": "111",
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "C vitamini açısından zengin olan meyve hangisidir?",
+    "options": [
+      "Portakal",
+      "Muz",
+      "Elma",
+      "Karpuz"
+    ],
+    "category": "Bilim",
+    "difficulty": "easy",
+    "id": "112",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Ayçiçek yağının elde edildiği bitkinin adı nedir?",
+    "options": [
+      "Ayçiçeği",
+      "Zeytin",
+      "Susam",
+      "Kanola"
+    ],
+    "category": "Genel Kültür",
+    "difficulty": "easy",
+    "id": "113",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Bir günde kaç saniye vardır?",
+    "options": [
+      "86400",
+      "3600",
+      "10000",
+      "7200"
+    ],
+    "category": "Matematik",
+    "difficulty": "medium",
+    "id": "114",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Hangi ülke hem Avrupa hem Asya kıtasında topraklara sahiptir?",
+    "options": [
+      "Türkiye",
+      "İspanya",
+      "Portekiz",
+      "İngiltere"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "medium",
+    "id": "115",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Ampulü icat eden mucit kimdir?",
+    "options": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Albert Einstein",
+      "Alexander Graham Bell"
+    ],
+    "category": "Tarih",
+    "difficulty": "medium",
+    "id": "116",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Hangi elementin sembolü 'Fe' dir?",
+    "options": [
+      "Fosfor",
+      "Ferro",
+      "Flor",
+      "Demir"
+    ],
+    "category": "Bilim",
+    "difficulty": "medium",
+    "id": "117",
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Hangisi bir Python kütüphanesi değildir?",
+    "options": [
+      "NumPy",
+      "Pandas",
+      "React",
+      "Matplotlib"
+    ],
+    "category": "Teknoloji",
+    "difficulty": "hard",
+    "id": "118",
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Hangi ülkenin bayrağında beyaz bir artı vardır?",
+    "options": [
+      "İsviçre",
+      "İsveç",
+      "Norveç",
+      "Finlandiya"
+    ],
+    "category": "Genel Kültür",
+    "difficulty": "medium",
+    "id": "119",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Mariana Çukuru hangi okyanustadır?",
+    "options": [
+      "Pasifik",
+      "Atlantik",
+      "Hint",
+      "Arktik"
+    ],
+    "category": "Bilim",
+    "difficulty": "hard",
+    "id": "120",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Hangisi bir müzik aletidir?",
+    "options": [
+      "Keman",
+      "Fırça",
+      "Kalem",
+      "Top"
+    ],
+    "category": "Müzik",
+    "difficulty": "easy",
+    "id": "121",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Bir yıl kaç ay içerir?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "category": "Genel Kültür",
+    "difficulty": "easy",
+    "id": "122",
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Aşağıdaki renklerden hangisi ana renk değildir?",
+    "options": [
+      "Kırmızı",
+      "Mavi",
+      "Sarı",
+      "Yeşil"
+    ],
+    "category": "Bilim",
+    "difficulty": "easy",
+    "id": "123",
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Güneş sisteminde saat yönünde dönen gezegen hangisidir?",
+    "options": [
+      "Venüs",
+      "Merkür",
+      "Dünya",
+      "Mars"
+    ],
+    "category": "Bilim",
+    "difficulty": "hard",
+    "id": "124",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "41 + 29 = ?",
+    "options": [
+      "70",
+      "71",
+      "74",
+      "62"
+    ],
+    "category": "Matematik",
+    "difficulty": "medium",
+    "id": "125",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "14 + 47 = ?",
+    "options": [
+      "51",
+      "70",
+      "63",
+      "61"
+    ],
+    "category": "Matematik",
+    "difficulty": "medium",
+    "id": "126",
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "33 + 9 = ?",
+    "options": [
+      "40",
+      "42",
+      "49",
+      "33"
+    ],
+    "category": "Matematik",
+    "difficulty": "easy",
+    "id": "127",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "27 + 23 = ?",
+    "options": [
+      "58",
+      "54",
+      "50",
+      "59"
+    ],
+    "category": "Matematik",
+    "difficulty": "easy",
+    "id": "128",
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "22 + 15 = ?",
+    "options": [
+      "37",
+      "45",
+      "33",
+      "41"
+    ],
+    "category": "Matematik",
+    "difficulty": "easy",
+    "id": "129",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "36 + 40 = ?",
+    "options": [
+      "84",
+      "78",
+      "68",
+      "76"
+    ],
+    "category": "Matematik",
+    "difficulty": "medium",
+    "id": "130",
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "13 + 25 = ?",
+    "options": [
+      "34",
+      "38",
+      "42",
+      "48"
+    ],
+    "category": "Matematik",
+    "difficulty": "easy",
+    "id": "131",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "28 + 38 = ?",
+    "options": [
+      "66",
+      "63",
+      "56",
+      "57"
+    ],
+    "category": "Matematik",
+    "difficulty": "medium",
+    "id": "132",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "46 + 24 = ?",
+    "options": [
+      "70",
+      "77",
+      "71",
+      "73"
+    ],
+    "category": "Matematik",
+    "difficulty": "medium",
+    "id": "133",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "16 + 8 = ?",
+    "options": [
+      "23",
+      "33",
+      "24",
+      "17"
+    ],
+    "category": "Matematik",
+    "difficulty": "easy",
+    "id": "134",
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "3 + 8 = ?",
+    "options": [
+      "18",
+      "16",
+      "15",
+      "11"
+    ],
+    "category": "Matematik",
+    "difficulty": "easy",
+    "id": "135",
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "11 + 15 = ?",
+    "options": [
+      "26",
+      "20",
+      "29",
+      "23"
+    ],
+    "category": "Matematik",
+    "difficulty": "easy",
+    "id": "136",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "27 + 20 = ?",
+    "options": [
+      "40",
+      "47",
+      "50",
+      "48"
+    ],
+    "category": "Matematik",
+    "difficulty": "easy",
+    "id": "137",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "14 + 48 = ?",
+    "options": [
+      "62",
+      "68",
+      "61",
+      "57"
+    ],
+    "category": "Matematik",
+    "difficulty": "medium",
+    "id": "138",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "27 + 23 = ?",
+    "options": [
+      "56",
+      "57",
+      "49",
+      "50"
+    ],
+    "category": "Matematik",
+    "difficulty": "easy",
+    "id": "139",
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "20 + 29 = ?",
+    "options": [
+      "60",
+      "47",
+      "45",
+      "49"
+    ],
+    "category": "Matematik",
+    "difficulty": "easy",
+    "id": "140",
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "23 + 30 = ?",
+    "options": [
+      "59",
+      "54",
+      "53",
+      "57"
+    ],
+    "category": "Matematik",
+    "difficulty": "medium",
+    "id": "141",
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "17 + 48 = ?",
+    "options": [
+      "68",
+      "61",
+      "66",
+      "65"
+    ],
+    "category": "Matematik",
+    "difficulty": "medium",
+    "id": "142",
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "32 + 36 = ?",
+    "options": [
+      "68",
+      "71",
+      "75",
+      "61"
+    ],
+    "category": "Matematik",
+    "difficulty": "medium",
+    "id": "143",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "50 + 13 = ?",
+    "options": [
+      "63",
+      "71",
+      "72",
+      "60"
+    ],
+    "category": "Matematik",
+    "difficulty": "medium",
+    "id": "144",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "3 x 10 = ?",
+    "options": [
+      "36",
+      "24",
+      "30",
+      "34"
+    ],
+    "category": "Matematik",
+    "difficulty": "medium",
+    "id": "145",
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "3 x 5 = ?",
+    "options": [
+      "14",
+      "15",
+      "8",
+      "6"
+    ],
+    "category": "Matematik",
+    "difficulty": "medium",
+    "id": "146",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "12 x 4 = ?",
+    "options": [
+      "56",
+      "61",
+      "48",
+      "58"
+    ],
+    "category": "Matematik",
+    "difficulty": "medium",
+    "id": "147",
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "7 x 5 = ?",
+    "options": [
+      "44",
+      "35",
+      "40",
+      "28"
+    ],
+    "category": "Matematik",
+    "difficulty": "medium",
+    "id": "148",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "6 x 5 = ?",
+    "options": [
+      "26",
+      "39",
+      "36",
+      "30"
+    ],
+    "category": "Matematik",
+    "difficulty": "medium",
+    "id": "149",
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "8 x 4 = ?",
+    "options": [
+      "30",
+      "24",
+      "34",
+      "32"
+    ],
+    "category": "Matematik",
+    "difficulty": "medium",
+    "id": "150",
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "11 x 4 = ?",
+    "options": [
+      "57",
+      "44",
+      "34",
+      "47"
+    ],
+    "category": "Matematik",
+    "difficulty": "medium",
+    "id": "151",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "10 x 10 = ?",
+    "options": [
+      "90",
+      "99",
+      "100",
+      "93"
+    ],
+    "category": "Matematik",
+    "difficulty": "medium",
+    "id": "152",
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "10 x 5 = ?",
+    "options": [
+      "50",
+      "55",
+      "42",
+      "57"
+    ],
+    "category": "Matematik",
+    "difficulty": "medium",
+    "id": "153",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "2 x 11 = ?",
+    "options": [
+      "22",
+      "24",
+      "16",
+      "35"
+    ],
+    "category": "Matematik",
+    "difficulty": "medium",
+    "id": "154",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Fransa ülkesinin başkenti neresidir?",
+    "options": [
+      "Meksiko",
+      "Kahire",
+      "Moskova",
+      "Paris"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "easy",
+    "id": "155",
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Almanya ülkesinin başkenti neresidir?",
+    "options": [
+      "Berlin",
+      "Tokyo",
+      "Moskova",
+      "Ottawa"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "easy",
+    "id": "156",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "İtalya ülkesinin başkenti neresidir?",
+    "options": [
+      "Roma",
+      "Kanberra",
+      "Viyana",
+      "Amsterdam"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "easy",
+    "id": "157",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "İspanya ülkesinin başkenti neresidir?",
+    "options": [
+      "Washington",
+      "Kahire",
+      "Stokholm",
+      "Madrid"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "easy",
+    "id": "158",
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Rusya ülkesinin başkenti neresidir?",
+    "options": [
+      "Washington",
+      "Moskova",
+      "Atina",
+      "Berlin"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "easy",
+    "id": "159",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Çin ülkesinin başkenti neresidir?",
+    "options": [
+      "Pekin",
+      "Atina",
+      "Kanberra",
+      "Brüksel"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "easy",
+    "id": "160",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Japonya ülkesinin başkenti neresidir?",
+    "options": [
+      "Kahire",
+      "Tokyo",
+      "Kanberra",
+      "Pekin"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "easy",
+    "id": "161",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Amerika Birleşik Devletleri ülkesinin başkenti neresidir?",
+    "options": [
+      "Berlin",
+      "Madrid",
+      "Ottawa",
+      "Washington"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "easy",
+    "id": "162",
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Kanada ülkesinin başkenti neresidir?",
+    "options": [
+      "Paris",
+      "Ottawa",
+      "Madrid",
+      "Yeni Delhi"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "easy",
+    "id": "163",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Brezilya ülkesinin başkenti neresidir?",
+    "options": [
+      "Stokholm",
+      "Brasilia",
+      "Paris",
+      "Pekin"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "easy",
+    "id": "164",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Yunanistan ülkesinin başkenti neresidir?",
+    "options": [
+      "Atina",
+      "Roma",
+      "Brüksel",
+      "Bern"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "easy",
+    "id": "165",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Avustralya ülkesinin başkenti neresidir?",
+    "options": [
+      "Kanberra",
+      "Stokholm",
+      "Brüksel",
+      "Yeni Delhi"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "easy",
+    "id": "166",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Hindistan ülkesinin başkenti neresidir?",
+    "options": [
+      "Amsterdam",
+      "Roma",
+      "Yeni Delhi",
+      "Brasilia"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "easy",
+    "id": "167",
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Meksika ülkesinin başkenti neresidir?",
+    "options": [
+      "Tokyo",
+      "Meksiko",
+      "Brüksel",
+      "Amsterdam"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "easy",
+    "id": "168",
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Mısır ülkesinin başkenti neresidir?",
+    "options": [
+      "Kahire",
+      "Moskova",
+      "Pekin",
+      "Madrid"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "easy",
+    "id": "169",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Hollanda ülkesinin başkenti neresidir?",
+    "options": [
+      "Tokyo",
+      "Brasilia",
+      "Viyana",
+      "Amsterdam"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "easy",
+    "id": "170",
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Belçika ülkesinin başkenti neresidir?",
+    "options": [
+      "Tokyo",
+      "Yeni Delhi",
+      "Washington",
+      "Brüksel"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "easy",
+    "id": "171",
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "İsviçre ülkesinin başkenti neresidir?",
+    "options": [
+      "Bern",
+      "Berlin",
+      "Viyana",
+      "Paris"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "easy",
+    "id": "172",
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Avusturya ülkesinin başkenti neresidir?",
+    "options": [
+      "Bern",
+      "Brasilia",
+      "Roma",
+      "Viyana"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "easy",
+    "id": "173",
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "İsveç ülkesinin başkenti neresidir?",
+    "options": [
+      "Brüksel",
+      "Stokholm",
+      "Meksiko",
+      "Roma"
+    ],
+    "category": "Coğrafya",
+    "difficulty": "easy",
+    "id": "174",
+    "correctAnswerIndex": 1
+  }
+]
