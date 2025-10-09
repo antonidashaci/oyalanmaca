@@ -77,7 +77,7 @@ class ResultScreen extends StatelessWidget {
                       _StatItem(
                         label: 'ACCURACY',
                         value: '${accuracy.toStringAsFixed(0)}%',
-                        icon: Icons.target,
+                        icon: Icons.track_changes,
                       ),
                       _StatItem(
                         label: 'AVG TIME',
