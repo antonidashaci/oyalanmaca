@@ -70,7 +70,7 @@ class HomeScreen extends StatelessWidget {
                           title: 'ACCURACY',
                           value: stats.accuracy.toStringAsFixed(0),
                           subtitle: '%',
-                          icon: Icons.target,
+                          icon: Icons.track_changes,
                         ),
                         StatsCard(
                           title: 'GAMES',
